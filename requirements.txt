@@ -1,0 +1,5 @@
+transformers 
+torch 
+pandas
+Jupiter 
+Notebook
